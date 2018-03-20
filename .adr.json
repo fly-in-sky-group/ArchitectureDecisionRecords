@@ -1,0 +1,6 @@
+{
+    "language": "zh-cn",
+    "path": "./adr/",
+    "prefix": "fis",
+    "digits": 4
+}
